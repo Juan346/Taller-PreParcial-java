@@ -2,7 +2,7 @@
 
 ## 📋 Descripción
 
-Este proyecto corresponde al **Taller 1 de Algoritmia y Programación 2**, cuyo objetivo es desarrollar un prototipo en consola para la gestión de una flota vehicular utilizando conceptos fundamentales de Programación Orientada a Objetos (POO) en Java.
+Este proyecto corresponde al **Taller 1 de Algoritmo y Programación 2**, cuyo objetivo es desarrollar un prototipo en consola para la gestión de una flota vehicular utilizando conceptos fundamentales de Programación Orientada a Objetos (POO) en Java.
 
 El sistema permite administrar vehículos, controlar cambios de velocidad, generar estadísticas de la flota, registrar eventos mediante bitácoras y aplicar técnicas avanzadas de POO como:
 
